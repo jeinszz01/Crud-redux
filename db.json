@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": 311
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "1"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Cielo",
+      "precio": 150,
+      "id": 6
+    },
+    {
+      "nombre": "Tienda",
+      "precio": 233,
+      "id": 7
+    },
+    {
+      "nombre": "Ensalada",
+      "precio": 15,
+      "id": 9
+    }
+  ]
+}
